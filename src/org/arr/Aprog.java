@@ -11,7 +11,8 @@ public class Aprog {
 		
 		Aprog a=new Aprog();
 		a.sample("ramesh",10,"sathish",30,"mohan",50,60.25,"ravi",1234567789l);
-		
+		a.sample("ram");
+		a.sample("ganesh");
 	}
 
 }
